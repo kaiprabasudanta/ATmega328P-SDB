@@ -2,6 +2,8 @@
 
 This project involves designing a Safe Deposit Box (SDB) system using the ATmega328P microcontroller. The SDB is intended to be used in hotels for secure storage of valuable items. The design includes a custom PCB layout and various features for control and monitoring.
 
+**Designed by Nur Rahman Affan Salim in Jakarta, Indonesia. This project is open-source.**
+
 ## Features
 
 - **ATmega328P** microcontroller as the core of the system.
@@ -11,7 +13,7 @@ This project involves designing a Safe Deposit Box (SDB) system using the ATmega
 - External **EEPROM 24LC256** for data storage via I2C.
 - **Keypad matrix** for user input (PIN entry, etc.).
 - **Buzzer control** via PWM for audible feedback.
-- Connection to a **USB Type-A** for power or communication.
+- Connection to **JST XH** connector for powering the system with a 6V battery pack.
 - **Simple control interface** with **74HC595 shift register** for extending output pins.
 
 ## How to Print the PCB Design
@@ -75,7 +77,7 @@ This project involves designing a Safe Deposit Box (SDB) system using the ATmega
 - **7-segment display**
 - **Keypad matrix**
 - **Buzzer**
-- **USB Type-A connector**
+- **JST XH connector** (for connecting 6V battery pack)
 - **Various passive components (resistors, capacitors)**
 
 ## License
