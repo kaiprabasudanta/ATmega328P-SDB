@@ -1,5 +1,7 @@
 # ATmega328P SDB (Safe Deposit Box) Design
 
+![Front](https://github.com/user-attachments/assets/8a78c09e-839d-4618-a2c9-e4ce26eaad81)
+
 This project involves designing a Safe Deposit Box (SDB) system using the ATmega328P microcontroller. The SDB is intended to be used in hotels for secure storage of valuable items. The design includes a custom PCB layout and various features for control and monitoring.
 
 **Designed by Nur Rahman Affan Salim in Jakarta, Indonesia. This project is open-source.**
